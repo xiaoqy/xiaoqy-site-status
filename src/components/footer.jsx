@@ -8,7 +8,6 @@ const Footer = () => {
   const githubName = import.meta.env.VITE_GITHUB_NAME;
   const homeUrl = import.meta.env.VITE_HOME_URL;
   const emailUrl = import.meta.env.VITE_EMAIL_URL;
-  const siteIcp = import.meta.env.VITE_SITE_ICP;
 
   return (
     <footer id="footer">
