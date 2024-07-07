@@ -15,7 +15,7 @@ const Footer = () => {
         <CustomLink iconDom={<Home />} to={homeUrl} />
         <CustomLink iconDom={<Mail />} to={`mailto:${emailUrl}`} />
       </div>
-      <div className="text"> 
+      <div className="text">
         <p>
           基于&nbsp;
           <CustomLink to="https://uptimerobot.com/" text="UptimeRobot" />
