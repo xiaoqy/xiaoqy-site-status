@@ -24,7 +24,7 @@ const Footer = () => {
         <p>
           Copyright&nbsp;&copy;&nbsp;2024&nbsp;-&nbsp;{new Date().getFullYear()}
           &nbsp;
-          <CustomLink to="https://www.xiaoqy.com/" text="白小七羽" />
+          <CustomLink to="https://www.xiaoww.com/" text="思远文文" />
         </p>
       </div>
     </footer>
